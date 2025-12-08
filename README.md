@@ -7,4 +7,4 @@ To view a specific project's detailed documentation, schematic files, and simula
   - for **Embedded Systems Design** projects - [click here](https://github.com/karthik-m-11/Embedded-Systems-Design-Projects)
   - for **Assembly Language** projects - [click here](https://github.com/karthik-m-11/Assembly-Language-Projects)
   - for **Robotics and Automation** projects - [click here](https://github.com/karthik-m-11/Robotics-and-Automation-Projects)
-  - for **Software projects** - [click here](https://github.com/karthik-m-11/Software-Projects)
+  - for **Software** projects - [click here](https://github.com/karthik-m-11/Software-Projects)
