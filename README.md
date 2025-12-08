@@ -1,4 +1,4 @@
-# Project-Portfolio
+# PROJECT-PORTFOLIO
 This is my project portfolio, a summary of ALL my finished and ongoing projects till date
 
 To view a specific project's detailed documentation, schematic files, and simulation files, please follow the links below
