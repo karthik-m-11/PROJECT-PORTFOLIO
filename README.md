@@ -6,4 +6,4 @@ To view a specific project's detailed documentation, schematic files, and simula
   - for **VLSI Design Verification** projects - [click here](https://github.com/karthik-m-11/VLSI-Projects/tree/main/Design-Verification)
   - for **VLSI Gate-Level Synthesis** projects - [click here](https://github.com/karthik-m-11/VLSI-Projects/tree/main/Gate-Level-Synthesis)
   - for **VLSI Physical Layout** projects - [click here](https://github.com/karthik-m-11/VLSI-Projects/tree/main/Physical-Layout)
-  - for **Analog and Mixed-Signal Circuit Design** projects - [click here](https://github.com/karthik-m-11/tree/main/Analog-and-Mixed-Signal-Circuit-Design-Projects)
+  - for **Analog and Mixed-Signal Circuit Design** projects - [click here](https://github.com/karthik-m-11/Analog-and-Mixed-Signal-Circuit-Design-Projects)
